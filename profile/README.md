@@ -1,4 +1,4 @@
-## Hi there 👋
+# Sinatralab landing page
 
 <!--
 
@@ -10,3 +10,10 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+Welcome! This page is under construction.
+
+## Resources For lab members
+
+* [GitHub instructions](../docs/howto-github.md)
+* More to come!
